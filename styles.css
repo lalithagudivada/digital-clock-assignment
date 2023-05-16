@@ -1,0 +1,13 @@
+.clock{
+    margin-left: 40%; 
+    margin-top: 10%;
+     text-shadow: 2;
+     color: white;
+     font-size: 50px;
+}
+.clk{
+    margin-left: 38%; 
+    color:white;
+     font-size: 60px;
+     font-style: italic;
+}
